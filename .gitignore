@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+_results.npz
+_pg*.png
+_check.png
